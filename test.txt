@@ -1,1 +1,1 @@
-Hello. Its a Git tuitorial..!
+Hello. Its a Git tuitorial..! Git cone, Push and pull commands.
